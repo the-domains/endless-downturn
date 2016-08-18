@@ -6,9 +6,9 @@ color:
   saturation: 0.09684648062102497
   rhythmicContrast: 0.9888401664793491
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: endless downturn
