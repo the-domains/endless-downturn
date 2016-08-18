@@ -1,14 +1,14 @@
-layout_spectrum: 0.9873726612422615
-typography_spectrum: 0.2736329925246537
+layout_spectrum: 0.7535415748134255
+typography_spectrum: 0.4542572167702019
 color:
-  brandStrength: 0.6511630294844508
-  lightness: 0.37404387607239187
-  saturation: 0.09684648062102497
-  rhythmicContrast: 0.9888401664793491
+  brandStrength: 0.4096417601685971
+  lightness: 0.8882286418229342
+  saturation: 0.6131232862826437
+  rhythmicContrast: 0.6790310989599675
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#FFF8E3'
+    - '#CCCC9F'
+    - '#33332D'
+    - '#9FB4CC'
+    - '#DB4105'
 name: endless downturn
